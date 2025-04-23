@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/jayant-eds-learning/:/",
+    "/content/jayant-eds-learning/configuration:/.helix/config.json",
+    "/content/jayant-eds-learning/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/jayant-eds-learning/"
   ]
 }
