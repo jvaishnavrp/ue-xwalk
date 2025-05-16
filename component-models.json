@@ -235,7 +235,7 @@
        {
         "component": "select",
         "name": "classes",
-        "value": "",
+        "value": "bg-red",
         "label": "Background Color",
         "description": "The quote background color",
         "valueType": "string",
@@ -253,7 +253,13 @@
             "value": "bg-blue"
           }
         ]
-      }
+      },
+      {
+      "component": "aem-tag",
+      "label": "AEM Tag Picker",
+      "name": "cq:tags",
+      "valueType": "string"
+    }
      ]
   }
 ]

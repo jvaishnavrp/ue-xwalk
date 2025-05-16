@@ -168,7 +168,8 @@
                   "name": "Quote",
                   "model": "quote",
                   "quote": "<p>Think, McFly! Think!</p>",
-                  "author": "Jayant"
+                  "author": "Jayant sdsdferr dssd",
+                  "classes": "bg-red"
                 }
               }
             }
