@@ -309,7 +309,33 @@
           "valueType": "string"
         }
       ]
-    }
+    },
+    {
+        "component": "aem-content-fragment",
+        "name": "picker",
+        "label": "Content Fragment Picker",
+        "valueType": "string",
+        "variationName": "contentFragmentVariation",
+        "validation": {
+            "rootPath": "/content"
+        }
+      },
+      {
+      "component": "date-time",
+      "label": "Date & Time",
+      "name": "date",
+      "valueType": "date"
+    },
+    {
+        "component": "aem-experience-fragment",
+        "valueType": "string",
+        "name": "experience-fragment",
+        "label": "experience-fragment",
+        "variationName": "experienceFragmentVariation",
+        "validation": {
+            "rootPath": "/content"
+        }
+      }
      ]
   }
 ]
